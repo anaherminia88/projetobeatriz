@@ -16,7 +16,7 @@ A Estatística é uma ciência que trabalha com o levantamento, o processamento 
 Fundamentação teórica: 
 
 O papel das redes sociais, antes de mais nada, é conectar pessoas entre si. Muitas pessoas passam parte de seus dias relacionando-se com amigos, familiares, conhecendo novas pessoas e
-publicando suas fotos e opiniões em redes sociais. Nos últimla anos, as redes sociais deixaram de ser apenas meios de entretenimento e diversão, hoje tornou-se um instrumento para protestos, assuntos polêmicos, conflitos étnicos, manifestações, encontros, relacionamentos e acima de tudo, informação.
+publicando suas fotos e opiniões em redes sociais. Nos últimos anos, as redes sociais deixaram de ser apenas meios de entretenimento e diversão, hoje tornou-se um instrumento para protestos, assuntos polêmicos, conflitos étnicos, manifestações, encontros, relacionamentos e acima de tudo, informação.
 
 "Os limites das redes não são limites de separação, mas limites de identidade. (...) Não é um limite físico, mas um limite de expectativas, de confiança e lealdade, o qual é permanentemente mantido e renegociado pela rede de comunicações." 
 [Capra, Fritjof. Vivendo Redes. In: Duarte, Fábio; Quandt, Carlos; Souza, Queila. (2008). O Tempo Das Redes, pp. 21/23. Editora Perspectiva S/A. ISBN 978-85-273-0811-3]
