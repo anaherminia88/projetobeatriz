@@ -47,7 +47,7 @@ O objetivo do presente projeto é disseminar o trabalho do profissional da área
 
 Resultados esperados:
 
-Espera-se que centenas alunos do bacharelado em estatística e pré-concluintes do ensino médio de todo o país conheçam o trabalho do estatístico e com isso espera-se aumentar o número de profissionais da área para ingressar no mercado de trabalho. Adicionalmnte, espera-se uma maior difusão da estatística como um todo.
+Espera-se que centenas alunos do bacharelado em estatística e pré-concluintes do ensino médio de todo o país conheçam o trabalho do estatístico e com isso espera-se aumentar o número de profissionais da área para ingressar no mercado de trabalho. Adicionalmente, espera-se uma maior difusão da estatística como um todo.
 
 
 
