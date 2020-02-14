@@ -49,6 +49,12 @@ Resultados esperados:
 
 Espera-se que centenas alunos do bacharelado em estatística e pré-concluintes do ensino médio de todo o país conheçam o trabalho do estatístico e com isso espera-se aumentar o número de profissionais da área para ingressar no mercado de trabalho. Adicionalmente, espera-se uma maior difusão da estatística como um todo.
 
+Espera-se produzir videos mensais bem como entrevistas com profissionais da área de estatística para divulgar incentivar o conhecimento do profissional de estatística.
+
+Promover entrevistas e vídeos do "Papo Estatístico".
+
+Espera-se também um diálogo entre pré-cocluintes e graduandos em estatística com profissionais da área para que eles conheçam e saibam a área que querem seguir na conclusão do curso.
+
 
 
 
