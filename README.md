@@ -35,7 +35,7 @@ Metodologia:
 
 -Editoração e publicação das entrevistas em formato de vídeos do IGTV, em contas do Instagram, com a frequência mínima mensal;
 
--Promoção do "Papo Estatístico". Esta iniciativa consite em um bate papo de cerca de uma hora, com um profissional da estatística atuante na área, de forma presencial ou  a distância, transmitido ao vivo pela internet para pessoas do mundo inteiro. Dessa forma, não será transmitido apenas o conteúdo, mas o convivado responderá as dúvidas do público. O Papo Estatístico será promovido com uma frequência mínima mensal.          
+-Promoção do "Papo Estatístico". Esta iniciativa consite em um bate papo de cerca de uma hora, com um profissional da estatística atuante na área, de forma presencial ou  a distância, transmitido ao vivo pela internet para pessoas do mundo inteiro. Dessa forma, não será transmitido apenas o conteúdo, mas o convidado responderá as dúvidas do público. O Papo Estatístico será promovido com uma frequência mínima mensal.          
 
 Referências:
 
