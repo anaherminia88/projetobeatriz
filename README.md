@@ -39,6 +39,13 @@ Metodologia:
 
 Referências:
 
+Capra, Fritjof. Vivendo Redes. In: Duarte, Fábio; Quandt, Carlos; Souza, Queila. (2008). O Tempo Das Redes, pp. 21/23. Editora Perspectiva S/A. ISBN 978-85-273-0811-3
+
+https://www.statista.com/statistics/253577/number-of-monthly-active-instagram-users/
+
+SANTOS, Thiago Camargo dos. Redes Sociais como Ferramenta de Marketing: Facebook. Assis: FEMA, 2012.
+
+FINGER, Cristiane; DE SOUZA, Fábio Canatta. Uma nova forma de ver TV no sofá ou em qualquer lugar. Revista FAMECOS: mídia, cultura e tecnologia, v. 19, n. 2, p. 373-389, 2012.
 
 
 Objetivos gerais:
@@ -47,16 +54,12 @@ O objetivo do presente projeto é disseminar o trabalho do profissional da área
 
 Resultados esperados:
 
-Espera-se que centenas alunos do bacharelado em estatística e pré-concluintes do ensino médio de todo o país conheçam o trabalho do estatístico e com isso espera-se aumentar o número de profissionais da área para ingressar no mercado de trabalho. Adicionalmente, espera-se uma maior difusão da estatística como um todo.
+Espera-se que centenas de alunos do bacharelado em estatística e pré-concluintes do ensino médio de todo o país conheçam o trabalho do estatístico e com isso espera-se aumentar o número de profissionais da área para ingressar no mercado de trabalho. Adicionalmente, espera-se uma maior difusão da estatística como um todo.
 
-Espera-se produzir videos mensais bem como entrevistas com profissionais da área de estatística para divulgar incentivar o conhecimento do profissional de estatística.
-
-Promover entrevistas e vídeos do "Papo Estatístico".
+Produção de videos mensais, bem como entrevistas com profissionais da área de estatística para divulgar incentivar o conhecimento do profissional de estatística.
 
 Espera-se também um diálogo entre pré-cocluintes e graduandos em estatística com profissionais da área para que eles conheçam e saibam a área que querem seguir na conclusão do curso.
 
-
-
-
+Diminuição dos indicadores de evasão do curso.
 
  
