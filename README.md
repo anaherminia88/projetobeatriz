@@ -3,9 +3,9 @@ Projeto de extensão idealizado pela discente Beatriz e orientado pelo professor
 
 
 
-Título: Estatístico no mercado: o que farei quando me formar?
+Título: Papo Estatístico: o que fazer ao se formar?
 
-Resumo:
+Resumo: Os desafios profissionais que atualmente são impostos ao aluno de um curso de bacharelado em estatística estão com maior nível de complexidade devido à grande valorização da área, e isso se mostra evidente com a popularização de conceitos como "Big Data" e "Apresendizagem de Máquina". Por esta razão, é necessário que o aluno, ainda no curso, ou mesmo antes da escolha deste, saiba quais os principais fatores que podem levá-lo ao sucesso na profissão. Para isso, faz-se necessário que o mesmo tenha a oportunidade de conhecer diversos profissionais da área, de modo que o mesmo possa ter segurança tanto na escolha de uma área, como também de um perfil profissional. Nesta direção, através do Instagram, uma das maiores redes sociais do mundo, é proposta a iniciativa denominada de "Papo Estatístico", a qual tem como compromisso reunir, presencialmente ou não, profissionais de alta reputação na área, para incentivar o aluno a progredir em seu curso, na sua carreira, e até mesmo na escolha desta, contribuindo para a dimunuição da evasão e consequente aumento de profissionais com maior qualificação técnica e mais preparados para o mercado de trabalho.
 
 
 
