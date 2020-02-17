@@ -16,16 +16,16 @@ A Estatística é uma ciência que trabalha com o levantamento, o processamento 
 Fundamentação teórica: 
 
 O papel das redes sociais, antes de mais nada, é conectar pessoas entre si. Muitas pessoas passam parte de seus dias relacionando-se com amigos, familiares, conhecendo novas pessoas e
-publicando suas fotos e opiniões em redes sociais. Nos últimos anos, as redes sociais deixaram de ser apenas meios de entretenimento e diversão, hoje tornou-se um instrumento para protestos, assuntos polêmicos, conflitos étnicos, manifestações, encontros, relacionamentos e acima de tudo, informação.
+publicando suas fotos e opiniões em redes sociais. Nos últimos anos, as redes sociais deixaram de ser apenas meios de entretenimento e diversão, hoje tornaram-se um instrumento para protestos, assuntos polêmicos, conflitos étnicos, manifestações, encontros, relacionamentos e acima de tudo, informação.
 
 "Os limites das redes não são limites de separação, mas limites de identidade. (...) Não é um limite físico, mas um limite de expectativas, de confiança e lealdade, o qual é permanentemente mantido e renegociado pela rede de comunicações." 
 [Capra, Fritjof. Vivendo Redes. In: Duarte, Fábio; Quandt, Carlos; Souza, Queila. (2008). O Tempo Das Redes, pp. 21/23. Editora Perspectiva S/A. ISBN 978-85-273-0811-3]
 
-Partindo dessa premissa, entendemos que as redes sociais são locais onde podemos alcançar não apenas um número significativo de pessoas, mas as pessoas com o interesse certo, não importa aonde estejam. De posse dessa nova realidade, o marketing, que por definição baseia-se nas percepções de mercado, não teve outra alternativa a não ser evoluir neste sentido e adaptar-se a nova realidade tecnológica. Dificilmente veremos uma empresa, por exemplo, se lançar no mercado sem um forte trabalho de marketing nas redes sociais, ou um a ausência deste recurso em uma campanha política. Ao se fazer um trabalho bem feito, respeitando os princípios do marketing, as redes sociais tornam-se uma ferramenta poderosa para a disseminação do conhecimento. 
+Partindo dessa premissa, entendemos que as redes sociais são locais onde podemos alcançar não apenas um número significativo de pessoas, mas as pessoas com o interesse específico, não importa aonde estejam. De posse dessa nova realidade, o marketing, que por definição baseia-se nas percepções de mercado, não teve outra alternativa a não ser evoluir neste sentido e adaptar-se a nova realidade tecnológica. Dificilmente veremos uma empresa, por exemplo, se lançar no mercado sem um forte trabalho de marketing nas redes sociais, ou um a ausência deste recurso em uma campanha política. Ao se fazer um trabalho bem feito, respeitando os princípios do marketing, as redes sociais tornam-se uma ferramenta poderosa para a disseminação do conhecimento. 
 
 A rede social Instagram, criada por Kevin Systrom e Mike Krieger, foi lançada em 2010 e comprada pelo Facebook em 2012, sendo considerada a mais popular entre os brasileiros, utilizada em sua maioria por jovens. Atualmente, o Instagram tem cerca de um bilhão de usuários ativos (https://www.statista.com/statistics/253577/number-of-monthly-active-instagram-users/), contando com diversos recursos para publicação de conteúdo, dentre eles temos a opção de publicar um vídeo ou fazê-lo ao vivo, mais conhecido como live.
 
- "Instagram continua a crescer como uma das plataformas de mídia social mais populares em todas as idades, locais e marcas. Ele tem uma base de usuários massiva e possui taxas de engajamento por postagem superiores às de qualquer outra plataforma social."[https://espiralinterativa.com/instagram-e-comprado-pelo-facebook-por-us1-bilhao/]
+"Instagram continua a crescer como uma das plataformas de mídia social mais populares em todas as idades, locais e marcas. Ele tem uma base de usuários massiva e possui taxas de engajamento por postagem superiores às de qualquer outra plataforma social."[https://espiralinterativa.com/instagram-e-comprado-pelo-facebook-por-us1-bilhao/]
 
 Metodologia:
 
@@ -35,7 +35,7 @@ Metodologia:
 
 -Editoração e publicação das entrevistas em formato de vídeos do IGTV, em contas do Instagram, com a frequência mínima mensal;
 
--Promoção do "Papo Estatístico". Esta iniciativa consite em um bate papo de cerca de uma hora, com um profissional da estatística atuante na área, de forma presencial ou  a distância, transmitido ao vivo pela internet para pessoas do mundo inteiro. Dessa forma, não será transmitido apenas o conteúdo, mas o convidado responderá as dúvidas do público. O Papo Estatístico será promovido com uma frequência mínima mensal.          
+-Implementação da segunda edição da iniciativa denominada "Papo Estatístico". Esta iniciativa consite em promover um ambiente de interação entre alunos do curso de bacharelado e um (ou mais) profissional(is) que já atuam na área e com emprego já consolidado. O tempo total desta interação tem duração mínima de uma hora, sendo a mesma presencial ou à distância (com transmissão pela internet através de lives no Instagram, o que possibilita até mesmo que profissionais estrangeiros também possam participar deste tipo de atividade. Dessa forma, não será transmitido apenas o conteúdo, mas o convidado responderá as mais variadas dúvidas do público, incluindo até mesmo curiosidades sobre empregabilidade e desafios para um egresso ou pré-concluintes do Ensino Médio. O Papo Estatístico será promovido pelo menos uma vez ao mês, a depender da quantidade e agenda dos convidados.          
 
 Referências:
 
